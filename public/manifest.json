@@ -1,0 +1,36 @@
+{
+    "theme_color":"#8936FF",
+    "background_color":"#2EC6FE",
+    "icons":[
+        {
+            "purpose":"maskable",
+            "sizes":"512x512",
+            "src":"icon512_maskable.png",
+            "type":"image/png"
+        },
+        {
+            "src":"icon192.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        },
+        {
+        "purpose":"any",
+        "sizes":"512x512",
+        "src":"icon512_rounded.png",
+        "type":"image/png"
+        },
+        {
+        "purpose":"any",
+        "sizes":"512x512",
+        "src":"icon512_rounded.png",
+        "type":"image/png"
+        }
+        ],
+    "orientation":"portrait",
+    "display":"standalone",
+    "dir":"auto",
+    "lang":"id-ID",
+    "name":"TDEE Calculator",
+    "short_name":"TDEE",
+    "start_url":".",
+    "description":"To Calculate Your TDEE Score"}
